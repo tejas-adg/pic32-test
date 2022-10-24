@@ -12,7 +12,7 @@
  *                  MPLAB IDE
  * Company:         Microchip Technology Inc.
  *
- * Software License Agreement
+ * Software License Agreement extra comments
  *
  * The software supplied herewith by Microchip Technology Incorporated
  * (the �Company�) for its PIC32MX Microcontroller is intended
